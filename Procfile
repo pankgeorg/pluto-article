@@ -1,0 +1,1 @@
+web: julia --project=$(pwd) "run bind server.jl" $PORT
