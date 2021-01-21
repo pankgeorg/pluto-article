@@ -122,8 +122,8 @@ uuid = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 
 [[Pluto]]
 deps = ["Base64", "Dates", "Distributed", "FuzzyCompletions", "HTTP", "InteractiveUtils", "Logging", "Markdown", "MsgPack", "Pkg", "REPL", "Sockets", "TableIOInterface", "Tables", "UUIDs"]
-git-tree-sha1 = "ca752dcaa3f99212837972b2455415d1ac914b6f"
-repo-rev = "9edb7b2"
+git-tree-sha1 = "16e16df50329acd3fc10963cb9985342ce57e44d"
+repo-rev = "be1c3d9"
 repo-url = "https://github.com/fonsp/Pluto.jl.git"
 uuid = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
 version = "0.12.18"
@@ -138,8 +138,8 @@ version = "0.1.0"
 
 [[PlutoUtils]]
 deps = ["Base64", "GitHubActions", "HTTP", "Logging", "Pkg", "Pluto", "SHA", "Sockets"]
-git-tree-sha1 = "5ef48dfbe53c1366fca8f5b5e168cafdb66fc48c"
-repo-rev = "static-export"
+git-tree-sha1 = "a0b8549632dc957231ab5cbeb504144695e5ab9d"
+repo-rev = "ac10069"
 repo-url = "https://github.com/fonsp/PlutoUtils.jl"
 uuid = "a5ec66cb-57bb-4ae5-9259-3342d9ed6c94"
 version = "0.1.0"
@@ -187,9 +187,9 @@ deps = ["Distributed", "InteractiveUtils", "Logging", "Random"]
 uuid = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
 [[URIs]]
-git-tree-sha1 = "bc331715463c41d601cf8bfd38ca70a490af5c5b"
+git-tree-sha1 = "7855809b88d7b16e9b029afd17880930626f54a2"
 uuid = "5c2747f8-b7ea-4ff2-ba2e-563bfd36b1d4"
-version = "1.1.0"
+version = "1.2.0"
 
 [[UUIDs]]
 deps = ["Random", "SHA"]
