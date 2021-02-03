@@ -122,16 +122,16 @@ uuid = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 
 [[Pluto]]
 deps = ["Base64", "Dates", "Distributed", "FuzzyCompletions", "HTTP", "InteractiveUtils", "Logging", "Markdown", "MsgPack", "Pkg", "REPL", "Sockets", "TableIOInterface", "Tables", "UUIDs"]
-git-tree-sha1 = "5ccbbe8ec90a449003b7df8382bf39f41f25a2b2"
-repo-rev = "ec7ecf1"
+git-tree-sha1 = "54bb8b8a835610e128f693ac51c89f063a845c40"
+repo-rev = "dc8d3a1"
 repo-url = "https://github.com/fonsp/Pluto.jl.git"
 uuid = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
 version = "0.12.20"
 
 [[PlutoBindServer]]
 deps = ["Base64", "HTTP", "Pkg", "Pluto", "SHA", "Sockets", "UUIDs"]
-git-tree-sha1 = "d97ab01440c6b0283fe5746b7e905eb7a1d94d31"
-repo-rev = "2306a3b"
+git-tree-sha1 = "1365f0a7e027017694cb47c1dac695e0c5db74d6"
+repo-rev = "4b8097c"
 repo-url = "https://github.com/fonsp/PlutoBindServer.jl"
 uuid = "2fc8631c-6f24-4c5b-bca7-cbb509c42db4"
 version = "0.1.0"
