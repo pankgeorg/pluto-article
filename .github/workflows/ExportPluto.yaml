@@ -20,7 +20,7 @@ jobs:
                   Pkg.instantiate();
                   import PlutoUtils;
 
-                  PlutoUtils.Export.github_action(; export_dir=".", offer_binder=true, bind_server_url="https://article-test-3.herokuapp.com/");'
+                  PlutoUtils.Export.github_action(; export_dir=".", offer_binder=true, bind_server_url="https://pluto-article-hh5bl.ondigitalocean.app/");'
             - name: Deploy to gh-pages
               uses: JamesIves/github-pages-deploy-action@releases/v3
               with:
